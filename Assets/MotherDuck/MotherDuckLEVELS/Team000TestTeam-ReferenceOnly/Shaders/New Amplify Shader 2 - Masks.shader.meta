@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 56f5584a794fd3f49a33792fb84cc32b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Mask: {fileID: 2800000, guid: 2d1edb4ab6c0b2c42a3063eea06b8d41, type: 3}
+  - _WoodDeck: {fileID: 2800000, guid: 31e660d88882f164b96fa2e73cc61aa5, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

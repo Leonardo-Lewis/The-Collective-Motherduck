@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 21c94119643af8a48a0f57c0ed71942d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _WoodBench: {fileID: 2800000, guid: 7492b0181311484439de28597191b048, type: 3}
+  - _WoodWall: {fileID: 2800000, guid: e2c61c1e84edce64085875f162558468, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
